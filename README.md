@@ -9,6 +9,8 @@
 
 - 📫 My institutional email **gabriele.ventura.stud@ispascalcomandini.it**
 
+- 🏅 Olinfo and Olicyber participant
+
 <h3 align="left">My social networks:</h3>
 <p align="left">
 <a href="https://instagram.com/gabb__v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabb__v" height="30" width="40" /></a>
